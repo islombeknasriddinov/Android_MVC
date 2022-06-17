@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android_MVC</string>
+    <string name="body">Body</string>
+    <string name="title">Title</string>
+    <string name="create">Create</string>
+    <string name="update">update</string>
+</resources>
